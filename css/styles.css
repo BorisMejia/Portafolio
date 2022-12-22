@@ -59,6 +59,7 @@ body.dark{
 .toggle-theme__text{
     font-size: 0.8rem;
 }
+
 .colors{
     display: flex;
     justify-content: space-between;
@@ -216,4 +217,4 @@ body.dark{
     padding: 1em, 0;
 }
 
-
+ 
